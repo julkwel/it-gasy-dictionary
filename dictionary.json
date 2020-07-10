@@ -2,7 +2,7 @@
   {
 		"teny": "Vonjeo",
 		"dikany": "Mila vonjy",
-    "ilanaAzy":"Rehefa mila vonjy fa tena tsy mety ny zavatra atao",
+    "ilaivanaAzy":"Rehefa mila vonjy fa tena tsy mety ny zavatra atao",
 		"heviny": {
 			"en": "Help",
 			"fr": "A l'aide"
@@ -10,7 +10,7 @@
 	}, {
 		"teny": "Pulleo",
 		"dikany": "Manaova pull, manaova mise à jour ny local",
-    "ilanaAzy":"Rehefa mampiasa git ka nisy mis à jour nataon'ny iray",
+    "ilaivanaAzy":"Rehefa mampiasa git ka nisy mis à jour nataon'ny iray",
 		"heviny": {
 			"en": "Make a pull",
 			"fr": "Faire un pull"
@@ -19,7 +19,7 @@
 	{
 		"teny": "Copieo",
 		"dikany": "Manaova dika mitovy",
-    "ilanaAzy":"Rehefa misy code adika avy amin'ny stackoverflow",
+    "ilaivanaAzy":"Rehefa misy code adika avy amin'ny stackoverflow",
 		"heviny": {
 			"en": "Copy",
 			"fr": "Copier"
@@ -28,7 +28,7 @@
   {
     "teny": "Pingeo",
     "dikany": "Manaova ping",
-    "ilanaAzy": "Rehefa tapaka ny connexion",
+    "ilaivanaAzy": "Rehefa tapaka ny connexion",
     "heviny": {
       "en": "Make a ping",
       "fr": "Faire un ping"
