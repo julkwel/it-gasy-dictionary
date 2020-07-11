@@ -43,5 +43,15 @@
       "en": "Make a fork",
       "fr": "Faire un fork"
     }
-  }
+  },
+  {
+    "teny": "Consoleo",
+    "dikany": "manaova console.log()",
+    "ilaivanaAzy": "rehefa i-debug kely",
+    "heviny": {
+      "en": "make console.log()",
+      "fr": "faire un console.log()"
+    }
+  },
+  
 ]
