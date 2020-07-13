@@ -53,5 +53,31 @@
       "fr": "faire un console.log()"
     }
   },
-  
+  {
+    "teny": "Supprimeo",
+    "dikany": "Fafao aloha",
+    "ilaivanaAzy": "Rehefa hita fa code tsy manjary ka mila fafana mihitsy aloha",
+    "heviny": {
+      "en": "Delete this sh*",
+      "fr": "Supprimer"
+    }
+  },
+  {
+    "teny": "Mergeo",
+    "dikany": "Manaova merge branch roa samy hafa",
+    "ilaivanaAzy": "Rehefa samy ni-code tamin'ny branch roa samy hafa ny dev roa ka mila atambatra",
+    "heviny": {
+      "en": "Do a merge",
+      "fr": "Merger les deux branches"
+    }
+  },
+  {
+    "teny": "Enregistreo",
+    "dikany": "Tehirizo aloha, manaova ctrl+s",
+    "ilaivanaAzy": "Rehefa ho tapahan'ny JIRAMA ny jiro dia matahotra ny dev ka mila tehirizina izay vita",
+    "heviny": {
+      "en": "Save",
+      "fr": "Enregistrer"
+    }
+  }
 ]
