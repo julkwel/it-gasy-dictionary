@@ -27,6 +27,15 @@
     }
   },
   {
+    "teny": "Colleo",
+    "dikany": "Apetaho ny dika mitovy",
+    "ilaivanaAzy": "Rehefa ampidirina ao amin'ny codenao ny code avy n'copiena",
+    "heviny": {
+      "en": "Paste",
+      "fr": "Coller"
+    }
+  },
+  {
     "teny": "Pingeo",
     "dikany": "Manaova ping",
     "ilaivanaAzy": "Rehefa tapaka ny connexion",
