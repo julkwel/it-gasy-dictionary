@@ -1,47 +1,11 @@
 [
   {
-    "teny": "Vonjeo",
-    "dikany": "Mila vonjy",
-    "ilaivanaAzy": "Rehefa mila vonjy fa tena tsy mety ny zavatra atao",
+    "teny": "Colleo",
+    "dikany": "Apetaho ny dika mitovy",
+    "ilaivanaAzy": "Rehefa ampidirina ao amin'ny codenao ny code avy n'copiena",
     "heviny": {
-      "en": "Help",
-      "fr": "A l'aide"
-    }
-  },
-  {
-    "teny": "Pulleo",
-    "dikany": "Manaova pull, manaova mise à jour ny local",
-    "ilaivanaAzy": "Rehefa mampiasa git ka nisy mis à jour nataon'ny iray",
-    "heviny": {
-      "en": "Make a pull",
-      "fr": "Faire un pull"
-    }
-  },
-  {
-    "teny": "Copieo",
-    "dikany": "Manaova dika mitovy",
-    "ilaivanaAzy": "Rehefa misy code adika avy amin'ny stackoverflow",
-    "heviny": {
-      "en": "Copy",
-      "fr": "Copier"
-    }
-  },
-  {
-    "teny": "Pingeo",
-    "dikany": "Manaova ping",
-    "ilaivanaAzy": "Rehefa tapaka ny connexion",
-    "heviny": {
-      "en": "Make a ping",
-      "fr": "Faire un ping"
-    }
-  },
-  {
-    "teny": "Forkeo",
-    "dikany": "Manao fork",
-    "ilaivanaAzy": "Rehefa mampiasa git ka te hi-dupliquer repository iray",
-    "heviny": {
-      "en": "Make a fork",
-      "fr": "Faire un fork"
+      "en": "Paste",
+      "fr": "Coller"
     }
   },
   {
@@ -54,12 +18,30 @@
     }
   },
   {
-    "teny": "Supprimeo",
-    "dikany": "Fafao aloha",
-    "ilaivanaAzy": "Rehefa hita fa code tsy manjary ka mila fafana mihitsy aloha",
+    "teny": "Copieo",
+    "dikany": "Manaova dika mitovy",
+    "ilaivanaAzy": "Rehefa misy code adika avy amin'ny stackoverflow",
     "heviny": {
-      "en": "Delete this sh*",
-      "fr": "Supprimer"
+      "en": "Copy",
+      "fr": "Copier"
+    }
+  },
+  {
+    "teny": "Enregistreo",
+    "dikany": "Tehirizo aloha, manaova ctrl+s",
+    "ilaivanaAzy": "Rehefa ho tapahan'ny JIRAMA ny jiro dia matahotra ny dev ka mila tehirizina izay vita",
+    "heviny": {
+      "en": "Save",
+      "fr": "Enregistrer"
+    }
+  },
+  {
+    "teny": "Forkeo",
+    "dikany": "Manao fork",
+    "ilaivanaAzy": "Rehefa mampiasa git ka te hi-dupliquer repository iray",
+    "heviny": {
+      "en": "Make a fork",
+      "fr": "Faire un fork"
     }
   },
   {
@@ -72,12 +54,39 @@
     }
   },
   {
-    "teny": "Enregistreo",
-    "dikany": "Tehirizo aloha, manaova ctrl+s",
-    "ilaivanaAzy": "Rehefa ho tapahan'ny JIRAMA ny jiro dia matahotra ny dev ka mila tehirizina izay vita",
+    "teny": "Pingeo",
+    "dikany": "Manaova ping",
+    "ilaivanaAzy": "Rehefa tapaka ny connexion",
     "heviny": {
-      "en": "Save",
-      "fr": "Enregistrer"
+      "en": "Make a ping",
+      "fr": "Faire un ping"
+    }
+  },
+  {
+    "teny": "Pulleo",
+    "dikany": "Manaova pull, manaova mise à jour ny local",
+    "ilaivanaAzy": "Rehefa mampiasa git ka nisy mis à jour nataon'ny iray",
+    "heviny": {
+      "en": "Make a pull",
+      "fr": "Faire un pull"
+    }
+  },
+  {
+    "teny": "Supprimeo",
+    "dikany": "Fafao aloha",
+    "ilaivanaAzy": "Rehefa hita fa code tsy manjary ka mila fafana mihitsy aloha",
+    "heviny": {
+      "en": "Delete this sh*",
+      "fr": "Supprimer"
+    }
+  },
+  {
+    "teny": "Vonjeo",
+    "dikany": "Mila vonjy",
+    "ilaivanaAzy": "Rehefa mila vonjy fa tena tsy mety ny zavatra atao",
+    "heviny": {
+      "en": "Help",
+      "fr": "A l'aide"
     }
   }
 ]
