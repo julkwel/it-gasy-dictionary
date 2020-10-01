@@ -26,5 +26,39 @@ it-gasy-dictionary follow this pattern for a word:
   },
 ```
 
+If there is more than one meaning, put `"dikany"`, `"ilaivanaAzy"` and `"heviny"` inside a list `"valiny"`:
+
+```json
+  {
+    "teny": "<word>",
+    "valiny": [
+      {  // first meaning
+        "dikany": "<description>",
+        "ilaivanaAzy": "<utiity example>",
+        "heviny": {
+          "en": "<english translation>",
+          "fr": "<french translation>"
+        }
+      },
+      {  // second meaning
+        "dikany": "<description>",
+        "ilaivanaAzy": "<utiity example>",
+        "heviny": {
+          "en": "<english translation>",
+          "fr": "<french translation>"
+        }
+      },
+      {  // third meaning
+        "dikany": "<description>",
+        "ilaivanaAzy": "<utiity example>",
+        "heviny": {
+          "en": "<english translation>",
+          "fr": "<french translation>"
+        }
+      }
+    ]
+  },
+```
+
 * Indentation: 2 space
 * Sorted [A-Z] by value of key `"teny"`
