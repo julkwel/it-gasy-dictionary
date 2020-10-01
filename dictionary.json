@@ -82,20 +82,23 @@
   },
   {
     "teny": "Vonjeo",
-    "dikany": "Mila vonjy",
-    "ilaivanaAzy": "Rehefa mila vonjy fa tena tsy mety ny zavatra atao",
-    "heviny": {
-      "en": "Help",
-      "fr": "A l'aide"
-    }
+    "valiny": [
+      {
+        "dikany": "Mila vonjy",
+        "ilaivanaAzy": "Rehefa mila vonjy fa tena tsy mety ny zavatra atao",
+        "heviny": {
+          "en": "Help",
+          "fr": "A l'aide"
+        }
+      },
+      {
+        "dikany": "Ampio aho aloha",
+        "ilaivanaAzy": "rehefa mila fanapiana fa mbola tsy ampy fahaizana",
+        "heviny": {
+          "en": "Help",
+          "fr": "Aide moi"
+        }
+      }
+    ]
   }
-   {
-    "teny": "Vonjeo",
-    "dikany": "Ampio aho aloha",
-    "ilaivanaAzy": "rehefa mila fanapiana fa mbola tsy ampy fahaizana",
-    "heviny": {
-      "en": "Help",
-      "fr": "Aide moi"
-    }
-  },
 ]
