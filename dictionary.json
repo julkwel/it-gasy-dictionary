@@ -72,6 +72,15 @@
     }
   },
   {
+    "teny": "Pusheo",
+    "dikany": "Mandefasa push, alefaso ny mise à jour ny local",
+    "ilaivanaAzy": "Rehefa mampiasa git ka nisy mis à jour nataonao",
+    "heviny": {
+      "en": "Make a push",
+      "fr": "Faire un push"
+    }
+  },
+  {
     "teny": "Supprimeo",
     "dikany": "Fafao aloha",
     "ilaivanaAzy": "Rehefa hita fa code tsy manjary ka mila fafana mihitsy aloha",
