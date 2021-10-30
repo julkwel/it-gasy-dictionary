@@ -109,5 +109,14 @@
         }
       }
     ]
+  },
+  {
+    "teny": "Commenteo",
+    "dikany": "Hazavao amin'ny alalan'ny commentaire ny code",
+    "ilaivanaAzy": "rehefa manoratra code sarotra vakiana ka mila azavaina",
+    "heviny": {
+      "en": "Add comments",
+      "fr": "Commenter"
+    }
   }
 ]
