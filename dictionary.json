@@ -109,5 +109,14 @@
         }
       }
     ]
+  },
+  {
+    "teny": "downloadeo",
+    "dikany": "kopia (data) avy amin'ny rafitra solosaina iray mankany amin'ny iray hafa, matetika amin'ny Internet",
+    "ilaivanaAzy": "maka fichier(s),donnée(s) amin'ny internet",
+    "heviny": {
+      "en": "download",
+      "fr": "télécharger"
+    }
   }
 ]
