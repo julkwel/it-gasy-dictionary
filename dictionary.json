@@ -18,6 +18,15 @@
     }
   },
   {
+    "teny": "Commiteo",
+    "dikany": "manaova 'git commit'",
+    "ilaivanaAzy": "Rehefa mampiditra ny asa vita anaty git",
+    "heviny": {
+      "en": "make a commit",
+      "fr": "faire un commit"
+    }
+  },
+  {
     "teny": "Copieo",
     "dikany": "Manaova dika mitovy",
     "ilaivanaAzy": "Rehefa misy code adika avy amin'ny stackoverflow",
