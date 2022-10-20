@@ -17,16 +17,20 @@ it-gasy-dictionary follow this pattern for a word:
 ```json
   {
     "teny": "<word>",
-    "dikany": "<description>",
-    "ilaivanaAzy": "<utiity example>",
-    "heviny": {
-      "en": "<english translation>",
-      "fr": "<french translation>"
-    }
+    "valiny": [
+      {
+        "dikany": "<description>",
+        "ilaivanaAzy": "<utiity example>",
+        "heviny": {
+          "en": "<english translation>",
+          "fr": "<french translation>"
+        }
+      }
+    ]
   },
 ```
 
-If there is more than one meaning, put `"dikany"`, `"ilaivanaAzy"` and `"heviny"` inside a list `"valiny"`:
+If there is more than one meaning:
 
 ```json
   {
