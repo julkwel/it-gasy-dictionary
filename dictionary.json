@@ -65,6 +65,19 @@
     ]
   },
   {
+    "teny": "Fixeo",
+    "valiny": [
+      {
+        "dikany": "Mamaha olana",
+        "ilaivanaAzy": "Rehefa misy bug (olana) ny code dia vahana ilay olana",
+        "heviny": {
+          "en": "Fix",
+          "fr": "Corriger"
+        }
+      }
+    ]
+  },
+  {
     "teny": "Forkeo",
     "valiny": [
       {
